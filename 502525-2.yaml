@@ -1,0 +1,9 @@
+train: D:/yolov9-Attention/deer/502525-2/train/images
+val: D:/yolov9-Attention/deer/502525-2/val/images
+test: D:/yolov9-Attention/deer/502525-2/test/images
+
+nc: 6
+names: ['Formosan Sambar', 'White-tailed deer', 'Formosan sika deer', 'moose', 'male', 'female']
+
+#roboflow:
+  #url: https://universe.roboflow.com/roboflow-gw7yv/vehicles-openimages/dataset/1
